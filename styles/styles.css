@@ -1,0 +1,31 @@
+.no-border
+{
+    color:brown;
+    text-align: center;
+}
+
+.no-border a{
+    color: chartreuse;
+}
+
+.one:hover{
+    box-shadow: 5px 10px gray;
+    text-align: center;
+}
+
+.red-border{
+    border: 2px red;
+    color: red;
+    text-decoration: sienna;
+    text-shadow: teal;
+    text-align: end;
+    border-style: dotted;
+}
+
+body{
+    background-color:white;
+    background-image: url(sreekar.jpeg);
+    background-attachment:scroll;
+    background-repeat: repeat-y;
+    opacity: 0.5;
+}
